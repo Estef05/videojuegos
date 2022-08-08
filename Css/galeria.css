@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(94, 93, 92);
+ }
+
+ #Parrafo_1{
+    color: rgb(116, 6, 116);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    
+ }
+ 
+ #Parrafo_2{
+    color: rgb(17, 156, 121);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+
+ }
+
+ #Parrafo_3{
+    color: rgb(146, 155, 138);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+ }
+
+ #Parrafo_4{
+    color: rgb(121, 159, 207);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+ }
+
+ ul{
+   display: flex;
+   flex-direction: row;
+   background-color: rgb(159, 192, 148);
+   list-style: none;
+
+}
+li{
+   margin: auto;
+}
+
+a{
+   text-decoration: none;
+   color: black;
+   font-size: 20pt;
+}
